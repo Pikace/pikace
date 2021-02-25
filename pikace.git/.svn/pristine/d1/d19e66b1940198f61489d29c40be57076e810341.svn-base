@@ -1,0 +1,15 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+<atom:link href="https://pikace.github.io/pikace/feed.xml" rel="self" type="application/rss+xml" />
+<title>Pikace | Le petit coin de Pikace - ses coups de coeur et envies</title>
+<link>https://pikace.github.io/pikace/</link>
+<description>Pikace — Le petit coin de Pikace - ses coups de coeur et envies</description>
+<lastBuildDate>2021-02-25</lastBuildDate>
+<image>
+  <url>https://pikace.github.io/pikace/assets/rss.png</url>
+  <title>Pikace — Le petit coin de Pikace - ses coups de coeur et envies</title>
+<link>https://pikace.github.io/pikace/</link>
+</image>
+
+</channel>
+</rss>

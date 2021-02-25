@@ -1,4 +1,4 @@
-content_folder = ['jv', 'bd']
+content_folder = ['JV', 'BD']
 relative_build_url = "/"
 absolute_build_url = "https://pikace.github.io/pikace/"
 build_folder = "build/"
