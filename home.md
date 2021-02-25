@@ -1,3 +1,3 @@
-# Hello!
+# Coucou !
 
-This is the home page of Pikace, a small static site generator.
+Le petit coin de Pikace - ses coups de coeur et envies.
